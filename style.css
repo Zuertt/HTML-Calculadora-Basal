@@ -20,7 +20,7 @@ body{
     float: left;
 }
 #detalle{
-    background: #8b0955;
+    background: #5e0686;
     width: 50%;
     height: 100%;
     float: left;
@@ -37,16 +37,16 @@ input {
 	width: 70%;
     padding: 12px 15px;
     border: none;
-    background-color: #eee;
+    background-color: #eeeeee;
 }
 button {
     font-size: 15px;
       font-weight: bold;
       padding: 12px 45px;
       border-radius: 30px;
-      background-color: #72e445;
-      border: 1px solid #41ffff;
-      color: #FFFFFF;
+      background-color: #e686d1;
+      border: 1px solid rgb(253, 76, 6);
+      color: #ffffff;
       text-transform: uppercase;
       letter-spacing: 1px;
       transition: transform 20ms ease-in;
@@ -63,16 +63,16 @@ button {
     margin: auto;
     border-radius: 10px;
     overflow: hidden; 
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
-      0 10px 10px rgba(0,0,0,0.22);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 
+      0 10px 10px rgba(0, 0, 0, 0.22);
   }
   #error{
-    color: red;
+    color: rgb(255, 0, 0);
     font-weight: bold;
     display: none;
 }
 .resultado{
-    color: #0A81D1;
+    color: #e662d0;
     font-weight: bold;
     font-size: 25px;
     margin-bottom: 5px;
